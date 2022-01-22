@@ -49,7 +49,7 @@ Print Amount in the bank balance after each operation on a new line.
 Insufficient Funds
 
 
--------------------------------------------Example Explanation----------------------------------
+-------------------------------------------------------------------------------Example Explanation----------------------------------
 
 Initially bank balance is 1000. 
 First operation, ADD 500, bank balance becomes 1500, print it.
