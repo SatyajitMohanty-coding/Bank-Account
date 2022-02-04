@@ -1,6 +1,6 @@
 #
 
---------------------------------------------------------------------Problem Description:----------------------------
+**Problem Description**:
 
 You are given a Bank account having N amount and you are asked to perfrom ADD(credit) and SUBTRACT(debit) operations.
 
@@ -8,14 +8,13 @@ After each operation print the amount left in the Bank account. If the debit amo
 
 
 
-------------------------------------------------------------------Problem Constraints-----------------------------------------
+**Problem Constraints**:
 
 1 <= N, X <= 1011
 1 <= Number of operations <= 105
 
 
-
-------------------------------------------------------------------Input Format---------------------------------------------------------
+**Input Format**:
 
 First line contains a single integer N denoting the balance in bank account.
 
@@ -27,13 +26,12 @@ If Type == 1, Perform ADD operation.
 If Type == 2, Perform SUBTRACT operation.
 
 
----------------------------------------------------------------------Output Format---------------------------------------------------
+**Output Format**:
 
 Print Amount in the bank balance after each operation on a new line.
 
 
-
--------------------------------------------------------------------Example Input----------------------------------------------
+**Example Input**:
 
 1000
 3
@@ -42,14 +40,13 @@ Print Amount in the bank balance after each operation on a new line.
 2 500
 
 
--------------------------------------------------------------------Example Output------------------------------------------------
-
+**Example Output**:
 1500
 100
 Insufficient Funds
 
 
--------------------------------------------------------------------------------Example Explanation----------------------------------
+**Example Explanation**:
 
 Initially bank balance is 1000. 
 First operation, ADD 500, bank balance becomes 1500, print it.
